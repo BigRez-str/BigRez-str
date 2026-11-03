@@ -1,4 +1,4 @@
-
+![GitHub Banner](7600b898530cdd106f092bd6db250ca298ea8668c8a2f4276f4486a6f958856a.png)
 # 👋 Hi, I'm Jacob Sunday
 
 ### Humanitarian Information Management Specialist | Data Analyst | IT & AI Enthusiast
